@@ -1,6 +1,9 @@
 models/
 datasets/
-test_imgs/
+imgs/
+plots/
 ADL_Assignment_4.pdf.lnk
 SAM_2023.pdf.lnk
 sam_lung_xrays-faster_rcnn.ipynb
+ADL4_indi.pdf.lnk
+YOLOv8_2024.pdf.lnk
